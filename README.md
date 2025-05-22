@@ -6,47 +6,48 @@ This repository contains the documents and details related to my **Industrial At
 
 - **Title:** An Industrial Attachment Experience with an Educational Website  
 - **Organization:** Monstarlab Bangladesh  
-- **Duration:** March19 to April 2, 2024,
+- **Duration:** March 19 to April 2, 2024  
 - **Supervised by:** Md. Faysal Ahamed, Lecturer, Department of ECE, RUET  
 - **Student:** Md. Abdur Rahman (Roll No: 1910055)  
 
-The training focused on real-world software development practices, including web design, user authentication, responsive interfaces, and deployment using tools such as:
+The training focused on real-world software development practices, including UI/UX design, front-end development, user authentication, agile methodology, and deployment. I developed a fully functional web project during this time.
 
-- HTML, CSS, JavaScript, React
-- Firebase Hosting
-- GitHub & Git
-- Figma (UI/UX)
-- Jira (Agile workflow)
+## 🚀 Project Developed
+
+### [🌐 Amrao Pari – React Frontend](https://github.com/abdurrahmanrussel/amrao-pari-react-frontend)
+
+> A responsive educational platform built using **React**, with features like sign up/sign in, course listing, and dynamic routing. The app was designed with Figma and deployed via Firebase. It reflects the core learning and deliverables of the training program.
 
 ## 📂 Contents
 
-- 📄 [`Certificate.pdf`](./Certificate.pdf): The official certificate issued by Monstarlab BD
+- 📄 [`Certificate.pdf`](./Certificate.pdf): The official certificate issued by Monstarlab BD  
 - 📘 [`Industrial_Attachment_Report.pdf`](./Industrial_Attachment_Report.pdf): The detailed training report, including:
   - Workspace visuals
   - Project structure
   - GitHub and Firebase usage
-  - Figma and UI design
-  - Jira and retrospective workflows
+  - Figma designs and UI elements
+  - Jira boards and retrospectives
 
 ## 🌐 Technologies Used
 
 - Frontend: HTML, CSS, JavaScript, React
-- Tools: GitHub, Firebase, Figma, Jira
+- Tools: GitHub, Firebase Hosting, Figma, Jira
 - Version Control: Git
-- Deployment: Firebase Hosting
+- Hosting: Firebase
 
 ## 📸 Glimpse of the Report
 
-The report includes detailed screenshots and diagrams such as:
-- Monstarlab workspace and global presence
-- Signup/Signin pages
-- Course structure and contact pages
-- GitHub contributions and Firebase domains
-- Figma wireframes and Jira boards
+The report includes screenshots and diagrams such as:
+- Monstarlab global and Dhaka office
+- Project folder structure and UI components
+- GitHub contributions
+- Firebase deployment
+- Jira agile board and retrospectives
+- Figma UI wireframes
 
 ## 📬 Contact
 
-If you want to know more about my experience or projects:
+Feel free to reach out for more information:
 
 **Md. Abdur Rahman**  
 📧 abdurrahmanrussel77@gmail.com  
@@ -54,4 +55,3 @@ If you want to know more about my experience or projects:
 🎓 Department of ECE, RUET
 
 ---
-
