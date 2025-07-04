@@ -1,8 +1,8 @@
-# 🎓 Industrial Training at Monstarlab BD
+#  Industrial Training at Monstarlab BD
 
 This repository contains the documents and details related to my **Industrial Attachment (ECE 4100)** at **Monstarlab Bangladesh**, completed as part of the undergraduate curriculum at **Rajshahi University of Engineering & Technology (RUET)**.
 
-## 📌 Training Overview
+##  Training Overview
 
 - **Title:** An Industrial Attachment Experience with an Educational Website  
 - **Organization:** Monstarlab Bangladesh  
@@ -12,13 +12,13 @@ This repository contains the documents and details related to my **Industrial At
 
 The training focused on real-world software development practices, including UI/UX design, front-end development, user authentication, agile methodology, and deployment. I developed a fully functional web project during this time.
 
-## 🚀 Project Developed
+##  Project Developed
 
-### [🌐 Amrao Pari – React Frontend](https://github.com/abdurrahmanrussel/amrao-pari-react-frontend)
+### [ Amrao Pari – React Frontend](https://github.com/abdurrahmanrussel/amrao-pari-react-frontend)
 
 > A responsive educational platform built using **React**, with features like sign up/sign in, course listing, and dynamic routing. The app was designed with Figma and deployed via Firebase. It reflects the core learning and deliverables of the training program.
 
-## 📂 Contents
+##  Contents
 
 - 📄 [`Certificate.pdf`](./Certificate.pdf): The official certificate issued by Monstarlab BD  
 - 📘 [`Industrial_Attachment_Report.pdf`](./Industrial_Attachment_Report.pdf): The detailed training report, including:
@@ -28,14 +28,14 @@ The training focused on real-world software development practices, including UI/
   - Figma designs and UI elements
   - Jira boards and retrospectives
 
-## 🌐 Technologies Used
+##  Technologies Used
 
 - Frontend: HTML, CSS, JavaScript, React
 - Tools: GitHub, Firebase Hosting, Figma, Jira
 - Version Control: Git
 - Hosting: Firebase
 
-## 📸 Glimpse of the Report
+##  Glimpse of the Report
 
 The report includes screenshots and diagrams such as:
 - Monstarlab global and Dhaka office
@@ -45,7 +45,7 @@ The report includes screenshots and diagrams such as:
 - Jira agile board and retrospectives
 - Figma UI wireframes
 
-## 📬 Contact
+##  Contact
 
 Feel free to reach out for more information:
 
